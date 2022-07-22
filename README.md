@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = [+94 70 224 6808)
+global.ownername = [nadun"]
 ```
 </details>
 
@@ -118,7 +118,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ----
 
-<!-- Contact Owner -->
+<!-- +94 70 224 6808 -->
 <b><details><summary>Contact</summary></b>
 
 ## ```Connect With Me```
